@@ -1,4 +1,4 @@
-FROM semagrow/semagrow:1.5.0
+FROM semagrow/semagrow:1.5.1
 
 MAINTAINER Yiannis Mouchakis <gmouchakis@iit.demokritos.gr>
 
